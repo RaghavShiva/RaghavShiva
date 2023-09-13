@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @RaghavShiva
 - 👀 I’m interested in App development 
 - 🌱 I’m currently learning Android development and Dsa
-
+- Along with this I have started learning web development
+- With the time I am getting interested in various tech domains
   
 
 <!---
