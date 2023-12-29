@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Android development and Dsa
 - Along with this I have started learning web development
 - With the time I am getting interested in various tech domains
+- Now I am practising problem solving and doing competitive programming.
   
 
 <!---
