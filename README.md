@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **HTML5,CSS3,React js, JavaScript**
 
-- 📫 How to reach me **shiva26122004@gmail.com**
+- 📫 How to reach me **shiva.raghavprof@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1OdL2m8TgmoxHAULD6j3uYqS_EvET1dwA/view?usp=drivesdk](https://drive.google.com/file/d/1OdL2m8TgmoxHAULD6j3uYqS_EvET1dwA/view?usp=drivesdk)
 
