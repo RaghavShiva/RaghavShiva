@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/RaghavShiva](https://github.com/RaghavShiva)
 
-- 💬 Ask me about **HTML5,CSS3,React js, JavaScript**
+- 💬 Ask me about **HTML5,CSS3,React js,JavaScript,MYSQL,CP**
 
 - 📫 How to reach me **shiva.raghavprof@gmail.com**
 
