@@ -7,18 +7,16 @@
 
 - 🌱 I’m currently learning **Node Js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RaghavShiva](https://github.com/RaghavShiva)
-
 - 💬 Ask me about **HTML5,CSS3,React Js, JavaScript, Node Js**
 
 - 📫 How to reach me **raghavshiva97.6@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OdL2m8TgmoxHAULD6j3uYqS_EvET1dwA/view?usp=drivesdk](https://drive.google.com/file/d/1OdL2m8TgmoxHAULD6j3uYqS_EvET1dwA/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1cyByux805QiZ91mk6WP191QgGTA_WMbt/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/raghav_shiva04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raghav_shiva04" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shiva-raghav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shiva-raghav" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shiva-raghav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shiva-raghav-96b94a255" height="30" width="40" /></a>
 <a href="https://instagram.com/ragshiv04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ragshiv04" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/shiva2612" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shiva2612" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/helloforces" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="helloforces" height="30" width="40" /></a>
