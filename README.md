@@ -29,7 +29,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raghavshiva&show_icons=true&locale=en&layout=compact" alt="raghavshiva" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raghavshiva&show_icons=true&locale=en" alt="raghavshiva" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raghavshiva&show_icons=true&locale=en&theme=merko" alt="raghavshiva" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raghavshiva&" alt="raghavshiva" /></p>
 <img align="right" height="150" src="https://repository-images.githubusercontent.com/443620153/e4b08970-8220-43a4-962f-d4db4f378d36"  />
