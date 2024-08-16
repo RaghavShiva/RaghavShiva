@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **raghavshiva97.6@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1cyByux805QiZ91mk6WP191QgGTA_WMbt/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Ti6pJeprOHOE8fXTm3N4dyPDup7kSgER/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,7 +20,7 @@
 <a href="https://instagram.com/ragshiv04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ragshiv04" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/shiva2612" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shiva2612" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/helloforces" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="helloforces" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ragshiv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ragshiv" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rake_stake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ragshiv" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/shiva26au4o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shiva26au4o" height="30" width="40" /></a>
 </p>
 
