@@ -9,9 +9,6 @@
 
 - 💬 Ask me about **HTML5,CSS3,React Js, JavaScript, Node Js**
 
-- 📫 How to reach me **raghavshiva97.6@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Ti6pJeprOHOE8fXTm3N4dyPDup7kSgER/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
