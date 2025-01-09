@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **HTML5,CSS3,React Js, JavaScript, Node Js**
 
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raghavshiva&theme=react-dark&hide_border=true" alt="AnishDhomase" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=raghavshiva&theme=react-dark&hide_border=true" style="max-width: 100%;">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/raghav_shiva04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raghav_shiva04" height="30" width="40" /></a>
