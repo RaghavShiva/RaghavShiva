@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raghavshiva&theme=monokai" alt="raghavshiva" /></a> </p>
 
-- 🌱 I’m currently learning **Node Js**
+- 🌱 I’m currently learning **GEN AI**
 
-- 💬 Ask me about **HTML5,CSS3,React Js, JavaScript, Node Js**
+- 💬 Ask me about **MERN,CP,DSA**
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=raghavshiva&theme=react-dark&hide_border=true" alt="AnishDhomase" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=raghavshiva&theme=react-dark&hide_border=true" style="max-width: 100%;">
 <h3 align="left">Connect with me:</h3>
